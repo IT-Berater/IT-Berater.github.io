@@ -22,4 +22,4 @@ tags:
 - Thanks
 ---
 
-[video width="1280" height="720" mp4="http://blog.wenzlaff.de/wp-content/uploads/2020/03/danke-wenzlaff.mp4"][/video]
+Beispiel von http://jmcglone.com/guides/github-pages/
