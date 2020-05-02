@@ -1,3 +1,3 @@
 # IT-Berater.github.io
 
-Siehe http://www.wenzlaff.info
+Siehe auch http://www.wenzlaff.info
